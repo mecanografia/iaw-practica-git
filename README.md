@@ -29,4 +29,4 @@ Esto es otro cambio.
 
 ## Otra nueva seccion
 
-Estoy haciendo otro cambio para aprender un poco mas de git
+Estoy haciendo otro cambio para aprender un poco mas de git.
